@@ -1,3 +1,4 @@
+wheel
 soundfile
 torch
 torchaudio
